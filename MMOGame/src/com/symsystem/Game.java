@@ -7,6 +7,7 @@ public class Game {
 		// By Symsystem :D
 		//Et je t'emmerde
 		//LOL
+		// héhéhé :D
 	}
 
 }
