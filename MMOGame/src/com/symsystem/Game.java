@@ -6,6 +6,7 @@ public class Game {
 		// TODO Auto-generated method stub
 		// By Symsystem :D
 		//Et je t'emmerde
+		//LOL
 	}
 
 }
