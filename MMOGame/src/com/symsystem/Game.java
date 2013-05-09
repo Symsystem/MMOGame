@@ -4,7 +4,7 @@ public class Game {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		//test de la part de Pyrossim
+		//test de la part de Pyrossim :D
 	}
 
 }
