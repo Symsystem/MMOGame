@@ -2,7 +2,9 @@ package com.symsystem.main;
 
 import org.lwjgl.opengl.GL11;
 
+
 public class Box extends Entity{
+	//oui !
 
 	private float size;
 	private float red, green, blue;
